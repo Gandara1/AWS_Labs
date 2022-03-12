@@ -1,5 +1,6 @@
 # EC2 Lab1
 ---
+## Part 1: Create your instance
 ---
 >***Open the AWS console at [aws.amazon.con](https://aws.amazon.com/)***
 >
@@ -27,13 +28,30 @@
 > ![Tags](images/tags.png)
 >**Step 6:** Add security group with ports 22 and 80 open.  
 > ![NSG](images/NSG.png)
->>***click review and launch at the bottom right of your screen***
->>
->>***Ensure all of the settings are as expected then click launch.***
->>
->>***Once you click launch you will be prompted for an SSH key*** 
->>
->>***You can either create and download a new key or use an existing key.*** 
+>***click review and launch at the bottom right of your screen***
+>
+>***Ensure all of the settings are as expected then click launch.***
+>
+>***Once you click launch you will be prompted for an SSH key*** 
+>
+>***You can either create and download a new key or use an existing key.*** 
 ![create_instance](images/launch_instance/launch_instance.gif)
+>
+## Part2: Connect to your instance
+
+>**Step 1:** Go to the EC2 Dashboard and select instances(running) link and choose the box next to your instance. click connect to see connection options and choose the ssh client
+![instance_connect](images/Connect%20to%20instance/Connect%20to%20instance.gif)
+>
+>Once on that page, you can see the instructions that you need to follow to connect to your machine via SSH.  
+![connect via SSH](images/connect_using_ssh/connect_using_ssh.gif)
+
+>>***You may need to change permissions on your key using chmod 400 <key_name>***
+>
+>**See Below**
+![chmod](images/CHMOD/CHMOD.gif)
+># Now you are connected to an EC2 instance!!
+
+# Make sure to clean up your infrastructure
+
 
 
