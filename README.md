@@ -1,4 +1,10 @@
-# AWS_Labs
+<p align="center">
+<img src=EC2/images/cloud.png/>
+</p>
+
+
+
+# Amazon Web Services
 
 # EC2 Labs
 ## Lab: [***Connect to EC2 Instance via SSH***](https://github.com/bdgomey/AWS_Labs/blob/master/EC2/SSH_to_instance.md)
