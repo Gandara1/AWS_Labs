@@ -22,4 +22,15 @@
 >>We will enable bucket versioning
 >>
 >>The remaining settings on this page will be default settings. 
+
 ![S3 Bucket creation](images/s3_bucket_creation/s3_bucket_creation.gif)
+---
+## Part 2: Upload your First File
+>Step 1: Select the bucket you just created
+>
+>Step 2: Select upload
+>l
+>Step 3: select add files
+>l
+>Step 4: find your document (I have an [***index.html***](https://drive.google.com/uc?export=download&id=1xSwlSNYvF9GunT_0hvXj-hNiBlqlXAKV) file that you can download for your website)
+
