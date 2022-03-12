@@ -11,3 +11,6 @@
 ---
 # S3 Labs
 ## Lab: [***Host a Static Website in S3***](https://github.com/bdgomey/AWS_Labs/blob/master/S3/S3_demo.md)
+
+
+Still to come (creating a and connecting to a database, lambda, sqs, sns, cloudformation, cloudfront, cloudwatch, cloudtrail and so on... )
