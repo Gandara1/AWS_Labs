@@ -8,7 +8,7 @@
 >
 >![Ec2 Navigation](/EC2/images/ec2_search.png)
 >
->You should be taken tot eh EC2 dashboard pictured below
+>You should be taken to the EC2 dashboard pictured below
 >![EC2 Dash board](/EC2/images/ec2_dashboard.png)
 >Click Launch instance and select the launch instance option
 >
@@ -37,7 +37,7 @@
 >***You can either create and download a new key or use an existing key.*** 
 ![create_instance](images/launch_instance/launch_instance.gif)
 >
-## Part2: Connect to your instance
+## Part 2: Connect to your instance
 
 >**Step 1:** Go to the EC2 Dashboard and select instances(running) link and choose the box next to your instance. click connect to see connection options and choose the ssh client
 ![instance_connect](images/Connect%20to%20instance/Connect%20to%20instance.gif)
