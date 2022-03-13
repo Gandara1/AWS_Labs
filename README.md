@@ -13,5 +13,5 @@
 ### Lab: [***Host a Static Website in S3***](https://github.com/bdgomey/AWS_Labs/blob/master/Storage/S3_demo.md)
 ---
 # Networking Labs
-
+### Lab: [***Create A VPC Using VPC Wizard***](https://github.com/bdgomey/AWS_Labs/blob/master/Networking/create_VPC.md)
 Still to come (creating a and connecting to a database, lambda, sqs, sns, cloudformation, cloudfront, cloudwatch, cloudtrail and so on... )
