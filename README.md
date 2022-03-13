@@ -7,10 +7,10 @@
 # Amazon Web Services
 
 # Compute Labs
-## Lab: [***Connect to EC2 Instance via SSH***](https://github.com/bdgomey/AWS_Labs/blob/master/Compute/SSH_to_instance.md)
+### Lab: [***Connect to EC2 Instance via SSH***](https://github.com/bdgomey/AWS_Labs/blob/master/Compute/SSH_to_instance.md)
 ---
 # Storage Labs
-## Lab: [***Host a Static Website in S3***](https://github.com/bdgomey/AWS_Labs/blob/master/Storage/S3_demo.md)
+### Lab: [***Host a Static Website in S3***](https://github.com/bdgomey/AWS_Labs/blob/master/Storage/S3_demo.md)
 ---
 # Networking Labs
 
