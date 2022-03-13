@@ -1,6 +1,6 @@
 # Create VPC
 ---
-## Part 1: Create your instance
+## Part 1: Go to the VPC Wizard
 ---
 >***Open the AWS console at [aws.amazon.con](https://aws.amazon.com/)***
 >
