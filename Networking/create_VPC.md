@@ -36,7 +36,7 @@
 >
 >***You should see something like the below image after you create your VPC***
 >![created VPC](images/vpc_created.png)
->Select **View VPC** ont he bottom of this page
+>Select **View VPC** on the bottom of this page
 >
 >Finally select subnets on the left hand side and find your public subnets
 >
