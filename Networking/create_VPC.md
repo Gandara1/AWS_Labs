@@ -36,9 +36,11 @@
 >
 >***You should see something like the below image after you create your VPC***
 >![created VPC](images/vpc_created.png)
+>Select **View VPC** ont he bottom of this page
+>
 >Finally select subnets on the left hand side and find your public subnets
 >
->click the checkbox next to one subnet and select actions at the top right and select edit subnet settings
+>click the checkbox next to one of your public subnets and select actions at the top right then select edit subnet settings
 >
 >You will enable public IPv4 address here by checking the box next to "Enable auto-assign public IPv4 address" and save your settings
 >![enable_pub_ip](images/enable_pub_ip.png)
