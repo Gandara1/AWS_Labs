@@ -1,4 +1,4 @@
-# EC2 Lab1
+# Connect to EC2
 ---
 ## Part 1: Create your instance
 ---
@@ -6,10 +6,10 @@
 >
 >Select EC2 from the search bar after you log in. 
 >
->![Ec2 Navigation](/Compute/images/ec2_search.png)
+>![Ec2 Navigation](/images/ec2_search.png)
 >
 >You should be taken to the EC2 dashboard pictured below
->![EC2 Dash board](/Compute/images/ec2_dashboard.png)
+>![EC2 Dash board](/images/ec2_dashboard.png)
 >Click Launch instance and select the launch instance option
 >
 >**Step 1:** Choose your Amazon Machine Image
