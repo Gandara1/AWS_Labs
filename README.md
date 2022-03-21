@@ -17,4 +17,4 @@
 ---
 ---
 ---
-Still to come (creating and connecting to a database, lambda, sqs, sns, cloudformation, cloudfront, cloudwatch, cloudtrail and so on... )
+Still to come (creating and connecting to a database, lambda, sqs, sns, cloudformation, cloudfront, cloudwatch, cloudtrail and so on.... )
