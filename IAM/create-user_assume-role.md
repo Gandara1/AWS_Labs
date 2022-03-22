@@ -60,14 +60,13 @@
 >![JSON](images/JSON.png)
 >
 >***Step 5:*** Finally sign in as the user you just created in an incognito window of your browser.  Use **vet-tec** as the account alias.
----
-## Part 4: Assume Roles 
->***Step 1:*** click the user at the top right of your AWS account
+> 
+>***Step 6:*** click the user at the top right of your AWS account
 >![User](images/user.png) 
 >
->***Step 2:*** Copy the **Account ID** then Select **Switch role**
+>***Step 7:*** Copy the **Account ID** then Select **Switch role**
 >![role](images/switch.png)
 >
 >On the next page you will add the account ID, Role name and the display name.  
 >![role-switch_page](images/switch_role_page.png)
->***Step 3:*** select switch role then navigate to S3 and see if you can read the buckets. 
+>***Step 8:*** select switch role then navigate to S3 and see if you can read the buckets. 
