@@ -61,7 +61,7 @@
 >
 >***Step 5:*** Finally sign in as the user you just created in an incognito window of your browser.  Use **vet-tec** as the account alias.
 ---
-## Part 3: Assume Roles 
+## Part 4: Assume Roles 
 >***Step 1:*** click the user at the top right of your AWS account
 >![User](images/user.png) 
 >
