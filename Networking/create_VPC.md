@@ -2,7 +2,7 @@
 ---
 ## Part 1: Go to the VPC Wizard
 ---
->***Open the AWS console at [aws.amazon.con](https://aws.amazon.com/)***
+>***Open the AWS console at [aws.amazon.com](https://aws.amazon.com/)***
 >
 >Select VPC from the search bar after you log in. 
 >
