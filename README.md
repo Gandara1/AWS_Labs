@@ -14,6 +14,7 @@
 ---
 # Networking Labs
 ### Lab: [***Create A Public Network Using VPC Wizard***](https://github.com/bdgomey/AWS_Labs/blob/master/Networking/create_VPC.md)
+### Lab: [***Set up Traffic Security using Security Groups and Network Access Control Lists***](https://github.com/bdgomey/AWS_Labs/blob/master/Networking/Traffic_Security.md)
 ---
 # IAM Labs
 ### Lab: [***Create a user and assume a role***](https://github.com/bdgomey/AWS_Labs/blob/master/IAM/create-user_assume-role.md)
