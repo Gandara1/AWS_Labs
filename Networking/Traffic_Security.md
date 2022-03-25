@@ -14,7 +14,7 @@
 >
 >**2**: Subnet - Select your public Subnet
 >
->**3**: Auto-assign Public IP - Ensure you see "Enable"  if you do nt, select the dropdown box and enable the Public IP
+>**3**: Auto-assign Public IP - Ensure you see "Enable"  if you do not, select the dropdown box and enable the Public IP
 >![configure](images/ec2_config.gif)
 >
 >***Step 3:*** Create an EC2 instance in Us-East-2 in the default VPC.  Follow the [EC2 lab](https://github.com/bdgomey/AWS_Labs/blob/master/Compute/SSH_to_instance.md) if you need help.
